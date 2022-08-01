@@ -1,3 +1,4 @@
+//variables are immutable unless stated otherwise
 pub fn run(){
     let sur_name = "Aricha";
     let mut marks = 50;
