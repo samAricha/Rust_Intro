@@ -2,9 +2,11 @@
 //mod vars;
 //mod types;
 //mod strings;
-mod tuples;
-
+//mod tuples;
+//mod arrays;
+//mod structs;
+mod structsv2;
 
 fn main() {
-    tuples::run();
+    structsv2::run();
 }

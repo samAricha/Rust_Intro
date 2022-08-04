@@ -1,1 +1,1 @@
-/home/simplicity/docs/RUST/learning/hello_world/target/debug/hello_world: /home/simplicity/docs/RUST/learning/hello_world/src/main.rs /home/simplicity/docs/RUST/learning/hello_world/src/tuples.rs
+/home/simplicity/docs/BLOCKCHAIN/RUST/learning/hello_world/target/debug/hello_world: /home/simplicity/docs/BLOCKCHAIN/RUST/learning/hello_world/src/main.rs /home/simplicity/docs/BLOCKCHAIN/RUST/learning/hello_world/src/structsv2.rs
