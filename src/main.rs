@@ -5,8 +5,9 @@
 //mod tuples;
 //mod arrays;
 //mod structs;
-mod structsv2;
+//mod structsv2;
+mod enums;
 
 fn main() {
-    structsv2::run();
+    enums::run();
 }
